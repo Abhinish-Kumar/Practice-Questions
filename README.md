@@ -67,4 +67,14 @@ target=11;
 
 
 
+# Array Practice Questions
+
+## 1. Reverse an array.
+
+
+```javascript
+
+
+```
+
 
